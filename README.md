@@ -45,3 +45,4 @@ The Recipe Finder web application is a simple yet effective tool that helps user
 
 ![Image](https://github.com/user-attachments/assets/89bcca7e-5cda-4323-93db-18f84afd43c4)
 
+![Image](https://github.com/user-attachments/assets/14c87d6e-f847-4e0d-b120-9f1cb6a4fc63)
