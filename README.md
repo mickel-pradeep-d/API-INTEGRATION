@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-## **PROJECT DESCRIPTION**
+### **PROJECT DESCRIPTION**
 
 **TITLE: Recipe Finder Web App**
 
