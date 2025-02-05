@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-##**PROJECT DESCRIPTION**
+## **PROJECT DESCRIPTION**
 
 **TITLE: Recipe Finder Web App**
 The Recipe Finder web application is a simple yet effective tool that helps users discover recipes based on available ingredients. By entering a list of ingredients, users can retrieve multiple recipes with images, titles, and direct links to detailed instructions.
