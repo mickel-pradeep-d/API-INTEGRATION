@@ -40,3 +40,8 @@ The Recipe Finder web application is a simple yet effective tool that helps user
 - **HTML –** Structure of the webpage
 - **CSS –** Styling, including a blurred transparent container for a visually appealing design
 - **JavaScript (Fetch API) –** Handles API calls and dynamically updates the page
+
+**Output**
+
+![Image](https://github.com/user-attachments/assets/89bcca7e-5cda-4323-93db-18f84afd43c4)
+
