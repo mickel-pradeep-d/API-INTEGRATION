@@ -14,7 +14,7 @@
 
 ### **PROJECT DESCRIPTION**
 
-**TITLE: Recipe Finder Web App**
+**TITLE : Recipe Finder Web App**
 
 The Recipe Finder web application is a simple yet effective tool that helps users discover recipes based on available ingredients. By entering a list of ingredients, users can retrieve multiple recipes with images, titles, and direct links to detailed instructions.
 
@@ -41,7 +41,7 @@ The Recipe Finder web application is a simple yet effective tool that helps user
 - **CSS –** Styling, including a blurred transparent container for a visually appealing design
 - **JavaScript (Fetch API) –** Handles API calls and dynamically updates the page
 
-**Output**
+**Output:**
 
 ![Image](https://github.com/user-attachments/assets/89bcca7e-5cda-4323-93db-18f84afd43c4)
 
